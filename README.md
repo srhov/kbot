@@ -39,6 +39,6 @@ go run main.go kbot
 ## Project Structure
 - `cmd/`: Cobra commands for the CLI.
 - `main.go`: Entry point for the application.
-
+https://t.me/golang_reply_6031e19d_bot
 ## License
 MIT
